@@ -1,6 +1,6 @@
 {
-  "name": "jquery-plugin",
-  "version": "0.0.0-ignored",
+  "name": "jquery-tiny-pubsub",
+  "version": "0.7.0",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -15,5 +15,24 @@
     "grunt-contrib-uglify": "0.1.1rc6",
     "grunt-contrib-watch": "0.2.0rc5",
     "grunt": "0.4.0rc7"
-  }
+  },
+  "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrynorthover/jquery-tiny-pubsub.git"
+  },
+  "keywords": [
+    "jquery",
+    "pubsub"
+  ],
+  "author": "Harry Northover <harry@nrthpoint.com> (http://nrthpoint.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrynorthover/jquery-tiny-pubsub/issues"
+  },
+  "homepage": "https://github.com/harrynorthover/jquery-tiny-pubsub#readme"
 }
