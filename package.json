@@ -17,7 +17,7 @@
     "grunt": "0.4.0rc7"
   },
   "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
-  "main": "Gruntfile.js",
+  "main": “main/ba-tiny-pubsub.js”,
   "directories": {
     "test": "test"
   },
