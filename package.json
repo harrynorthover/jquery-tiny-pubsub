@@ -1,6 +1,6 @@
 {
   "name": "jquery-tiny-pubsub",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "engines": {
     "node": ">= 0.8.0"
   },
@@ -17,7 +17,7 @@
     "grunt": "0.4.0rc7"
   },
   "description": "A really, really, REALLY tiny pub/sub implementation for jQuery.",
-  "main": “main/ba-tiny-pubsub.js”,
+  "main": "dist/ba-tiny-pubsub.js",
   "directories": {
     "test": "test"
   },
